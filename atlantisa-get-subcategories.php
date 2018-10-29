@@ -2,7 +2,7 @@
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 /**
  * Plugin Name: AtlantisA Show Subcategories
- * Plugin URI: https://atlantisa.com
+ * Plugin URI: https://github.com/grandeto/atlantisa-show-subcategories
  * Description: This Wordpress plugin shows all subcategories (child categories) of a given post category via shortcode. Go to Settings -> AtlantisA Show Subcategories, setup the plugin according to your requirements and then use shortcode [atlantisa_showsubcat] in Posts -> Categories -> Category -> Description or implement it via: echo do_shortcode('[atlantisa_showsubcat]'); in your page template. It will not show anything if the visitor is not on Category page which has subcategories.
  * Version: 1.0.0
  * Author: www.AtlantisA.com
